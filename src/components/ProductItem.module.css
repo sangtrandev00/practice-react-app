@@ -1,0 +1,23 @@
+.product-item {
+}
+
+.product-item__desc {
+}
+
+.product-item__title {
+}
+
+.product-item__img {
+}
+
+.product-item a {
+  text-decoration: none;
+}
+
+.product-item .list-group-flush {
+  color: red;
+}
+
+.prdocut-item .list-group-item {
+    color: blue;
+}
